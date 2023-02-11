@@ -1,0 +1,52 @@
+.login{
+    width: 400px;
+    height: 225px;
+    background-color: #171717;
+    box-shadow: 7px 13px 37 px black;
+    padding: 6px 35px;
+    border: 5px solid cadetblue;
+    color: white;
+}
+.login h5{
+    margin: 0;
+    height: 40px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    border-bottom: 3px solid cadetblue;
+    font-size: 18px;
+}
+
+.controls{
+    width: 80%;
+    border: 1px solid cadetblue;
+    margin-bottom: 15px;
+    padding: 5px 8px;
+    background-color: #101010;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+.boton{
+    width: 80%;
+    height: 40px;
+    text-align: center;
+    background-color: cadetblue;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+#registro,#opinion{
+    height: 260px;
+}
+.incoreg{
+    margin-top: 10px;
+}
+.sau{
+    height: 90vh;
+}
+#textbox{
+    resize: none;
+}
+.content a:visited,.content a:link{
+    color: cadetblue;
+  }
